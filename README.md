@@ -1,9 +1,9 @@
 Hwk 3: Collaboration with Github
-
-Contributors:
-Eric Steele (ers389@nau.edu)(Also: apeBit-user)
-Paul Dickinson (pid23@nau.edu)(Also: Paul-Dickinson)
-Tristine Schupp ()
+<br><br>
+Contributors:<br>
+Eric Steele (ers389@nau.edu)(Also: apeBit-user)<br>
+Paul Dickinson (pid23@nau.edu)(Also: Paul-Dickinson)<br>
+Tristine Schupp ()<br>
 
 The Ugly Barnacle <br>
 Once there was an ugly barnacle,<br>
