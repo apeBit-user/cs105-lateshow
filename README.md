@@ -4,3 +4,8 @@ Contributors:
 Eric Steele (ers389@nau.edu)(Also: apeBit-user)
 Paul Dickinson (pid23@nau.edu)(Also: Paul-Dickinson)
 Tristine Schupp ()
+
+The ugly barnacle
+Once there was an ugly barnacle,
+He was SO ugly that everybody died.
+The End
