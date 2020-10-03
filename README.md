@@ -13,3 +13,6 @@ The end <br>
 
 The Ugly Barnacle (Continued), <br>
 That didn't help at all!! <br>
+
+
+I'm ugly and I'm proud!
